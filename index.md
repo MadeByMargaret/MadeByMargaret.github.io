@@ -1,6 +1,6 @@
 ---
-layout: home
-title: My Blog
+layout: default
+title: Somewhat Serious
 ---
 
 Welcome to my blog!
